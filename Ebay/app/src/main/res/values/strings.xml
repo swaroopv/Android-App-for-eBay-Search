@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Ebay</string>
+
+    <string name="edit_message">Enter Keyword</string>
+    <string name="keyword">Keyword</string>
+    <string name="from">Price From</string>
+    <string name="to">Price To</string>
+    <string name="sort">Sort By</string>
+    <string name="failure">Enter atleast 2 characters for search</string>
+    <string-array name="sortEntries">
+        <item>Best Match</item>
+        <item>Price: highest first</item>
+        <item>Price + Shipping: highest first</item>
+        <item>Price + Shipping: lowest first</item>
+    </string-array>
+    <string name="errorKeyword">Please enter a keyword</string>
+    <string name="errorRange">maximum price cannot be lesser than minimum</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_result">resultActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="fb_app_id">546134705508220</string>
+</resources>
